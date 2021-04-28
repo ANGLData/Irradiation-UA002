@@ -1,15 +1,39 @@
 {
     "AX": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0004588414714078144,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-901",
+                "uuid": "40a39315-fdc9-4868-bdc8-92415ec1d649"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-903",
+                "uuid": "e07ee915-1dec-4425-bcc5-ecb074cac2c7"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.9991985543866148
     },
     "CDD": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.02
+        "error": 0.0019052422584449559,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-901",
+                "uuid": "40a39315-fdc9-4868-bdc8-92415ec1d649"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-903",
+                "uuid": "e07ee915-1dec-4425-bcc5-ecb074cac2c7"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.9966679428497653
     },
     "H1": {
         "error": 0.0,
@@ -24,15 +48,39 @@
         "value": 1.0
     },
     "L1": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.000930211626551642,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-901",
+                "uuid": "40a39315-fdc9-4868-bdc8-92415ec1d649"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-903",
+                "uuid": "e07ee915-1dec-4425-bcc5-ecb074cac2c7"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.9983745547763035
     },
     "L2": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.001410734614623931,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-901",
+                "uuid": "40a39315-fdc9-4868-bdc8-92415ec1d649"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-903",
+                "uuid": "e07ee915-1dec-4425-bcc5-ecb074cac2c7"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.99753385339487
     }
 }
